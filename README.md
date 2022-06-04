@@ -1,2 +1,5 @@
-# portfolio-of-webapps
-Webapps built with React.js, Next.js, TailwindCSS, Firebase, Vercel
+# Web apps
+
+Built with React.js, Next.js, TailwindCSS, Firebase, Vercel.
+
+- Explore Google search: https://www.googlesearchapp.vercel.com
