@@ -1,4 +1,4 @@
-# Web apps
+# Web Apps
 
 Built with React.js, Next.js, TailwindCSS, Firebase, Vercel.
 
