@@ -11,3 +11,6 @@ Built with React.js, Next.js, TailwindCSS, Firebase, Vercel.
 
 - Explore Google search: https://www.googlesearchapp.vercel.com
   - Recreate the Google search homepage.
+
+- Personal website: https://vyyyy.github.io
+  - The first website I built in 2016 to share my self-guided educational resources used to learn coding.
